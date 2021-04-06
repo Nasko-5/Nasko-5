@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nasko-5
 - 👀 I’m interested in computers and programming
-- 🌱 I’m currently learning C and assembly
-- 💞️ I’m looking to collaborate on making an os
+- 🌱 I’m currently learning C and C++
+- 💞️ Currently not looking to collaborate :c
 - 📫 How to reach me: 6123a74a54@gmail.com
 
 <!---
